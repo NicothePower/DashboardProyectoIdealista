@@ -5,7 +5,7 @@ Dashboard y Analisis de Datos - Proyecto 1
 - Analisis del mercado inmobiliario en España basado en la oferta de alquiler pisos en España.
 
 ## Fuente de datos
-- Dataset ofbtenido en Kaggle que recopila datos de Idealista.
+- Dataset obtenido en Kaggle que recopila datos de Idealista.
 - https://www.kaggle.com/datasets/laurabarreda/rental-listins-in-idealista-spain
 
 ## Descripción del Proyecto:
