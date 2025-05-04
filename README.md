@@ -1,26 +1,26 @@
-![Oferta de alquiler de pisos en España](img/ImagenReadme2.png)
-
 ## Titulo del Proyecto:
 - Analisis del mercado inmobiliario en España basado en la oferta de alquiler pisos en España.
-  
-## Fuente de datos
+
+![Oferta de alquiler](https://raw.githubusercontent.com/NicothePower/DashboardProyectoIdealista/imagen/ImagenReadme2.png)
+
+## Fuente de datos 📊
 - Dataset obtenido en Kaggle que recopila datos de Idealista.
 - https://www.kaggle.com/datasets/laurabarreda/rental-listins-in-idealista-spain
 
-## Descripción del Proyecto:
+## Descripción del Proyecto: ✍️
 - Realizar un analisis exploratorio de datos y generar un reporte de resultados.
 - El objetivo es identificar las principales tendencias y patrones en los datos, para poder validar hipotesis y predecir como se comportarán los datos a futuro.
 
-## Estructura del proyecto
+## Estructura del proyecto 📁
 1. Analisis exploratorio de datos
 2. Limpieza y transformación de datos
 3. Dashboard creado en Excel
 4. Aplicación de segmentadores para analisis de reporte y conclusiones.
 
-# Entrega relacionada al Proyecto 
+# Entrega relacionada al Proyecto ✅
 Dashboard y Analisis de Datos - Proyecto 1
 
-## Resultados y Conclusiones
+## Resultados y Conclusiones 💡
 - En España, existe un total de 75.733 viviendas ofertadas con un precio promedio por vivienda de $1278,42. El tamaño promedi ode las viviendas es de 105 metros y tienen 2.5 habitaciones en promedio.
 - Las comunidades autónomas con mayor oferta de Renta de viviendas es Andalucia (21.3%), seguida por Madrid (20.6%) y Cataluña (14%).
 - Los tipos de vieiendas más ofertadas para la renta son claramente los Pisos (80%), Seguidos por Casas (5%) y Chalets (5%).
