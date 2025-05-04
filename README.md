@@ -1,9 +1,8 @@
-# DashboardProyectoIdealista
-Dashboard y Analisis de Datos - Proyecto 1
+![Oferta de alquiler de pisos en España](img/ImagenReadme2.png)
 
 ## Titulo del Proyecto:
 - Analisis del mercado inmobiliario en España basado en la oferta de alquiler pisos en España.
-
+  
 ## Fuente de datos
 - Dataset obtenido en Kaggle que recopila datos de Idealista.
 - https://www.kaggle.com/datasets/laurabarreda/rental-listins-in-idealista-spain
@@ -17,6 +16,9 @@ Dashboard y Analisis de Datos - Proyecto 1
 2. Limpieza y transformación de datos
 3. Dashboard creado en Excel
 4. Aplicación de segmentadores para analisis de reporte y conclusiones.
+
+# Entrega relacionada al Proyecto 
+Dashboard y Analisis de Datos - Proyecto 1
 
 ## Resultados y Conclusiones
 - En España, existe un total de 75.733 viviendas ofertadas con un precio promedio por vivienda de $1278,42. El tamaño promedi ode las viviendas es de 105 metros y tienen 2.5 habitaciones en promedio.
